@@ -1,11 +1,10 @@
-Fivem streetlights are buggy and often break without reason.
+FiveM streetlights are buggy and often break without reason.
 
-This script disables streetlamps damage and freezes their position
+This script disables streetlamp damage and freezes their position.
 
 <hr>
+Just decompress and ensure it in your server configuration.
 
-Just decompress and ensure
+You can add other props too!
 
-You can add other props to!!!
-
-Just open the client file and add it to the config
+Just open the client file and add them to the config.
